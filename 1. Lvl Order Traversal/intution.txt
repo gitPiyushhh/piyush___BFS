@@ -1,0 +1,11 @@
+1. Why BFS:
+    |
+    Coz here we have to move lvl by lvl
+
+2. DS used: 
+    |
+    (a) Queue
+
+3. Variation:
+    |
+    Just simple lvl order traversal
