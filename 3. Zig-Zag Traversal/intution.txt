@@ -1,0 +1,11 @@
+1. Why BFS:
+    |
+    Coz here we have to traverse & move lvl by lvl
+
+2. DS used: 
+    |
+    (a) Queue, flag{boolean variable}
+
+3. Variation:
+    |
+    In every lvl, chck against the flag nd append accordingly. Don't forget to toggle flag'
