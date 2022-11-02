@@ -1,0 +1,11 @@
+1. Why BFS:
+    |
+    Coz here we have to find depth move lvl by lvl
+
+2. DS used: 
+    |
+    (a) Queue
+
+3. Variation:
+    |
+    In every lvl chk if there is any elem that has no children then min depth is till that
