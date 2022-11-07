@@ -1,0 +1,11 @@
+1. Why BFS:
+    |
+    Coz here we have to traverse & move lvl by lvl
+
+2. DS used: 
+    |
+    (a) Queue, flag{boolean variable} to chck if from same parent
+
+3. Variation:
+    |
+    In every lvl, if the values match to x, y always chck if the parent is not same
